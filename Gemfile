@@ -25,7 +25,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'ember-rails', '~> 0.17.0'
 gem 'ember-source', '~> 1.8.1'
 gem 'emblem-rails', '~> 0.2.2'
-
+gem 'ffaker'
+gem 'responders', '~> 2.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
